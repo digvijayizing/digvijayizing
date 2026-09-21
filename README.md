@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Digvijay%20Singh%20Shaktawat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20Infrastructure%20%7C%20GPU%20%26%20HPC%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1200&color=00C9A7&center=true&vCenter=true&width=750&height=50&lines=Infrastructure+as+Code+%7C+Terraform+%2B+GitLab+CI%2FCD;Kubernetes+%7C+AWS+%C2%B7+GCP+%C2%B7+OCI;GPU+%26+HPC+Cluster+Operations;Slurm+%2F+Slurm-on-Kubernetes+(Slinky);Always+on-call%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -91,29 +90,11 @@ fun_fact:        I debug NCCL timeouts for a living and still love a clean terra
 
 ---
 
-### 🎓 Certifications
-
 <p>
 <img src="https://img.shields.io/badge/NVIDIA_Certified-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=digvijayizing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijayizing&layout=compact&theme=tokyonight&hide_border=true" width="34%" alt="top langs"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=digvijayizing&theme=tokyonight&hide_border=true" width="60%" alt="streak stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=digvijayizing&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
-
 ---
 
 <div align="center">
